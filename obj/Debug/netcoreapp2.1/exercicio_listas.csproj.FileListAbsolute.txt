@@ -1,0 +1,13 @@
+C:\Users\leonardo fernandes\source\repos\exercicio_listas\bin\Debug\netcoreapp2.1\exercicio_listas.deps.json
+C:\Users\leonardo fernandes\source\repos\exercicio_listas\bin\Debug\netcoreapp2.1\exercicio_listas.runtimeconfig.json
+C:\Users\leonardo fernandes\source\repos\exercicio_listas\bin\Debug\netcoreapp2.1\exercicio_listas.runtimeconfig.dev.json
+C:\Users\leonardo fernandes\source\repos\exercicio_listas\bin\Debug\netcoreapp2.1\exercicio_listas.dll
+C:\Users\leonardo fernandes\source\repos\exercicio_listas\bin\Debug\netcoreapp2.1\exercicio_listas.pdb
+C:\Users\leonardo fernandes\source\repos\exercicio_listas\obj\Debug\netcoreapp2.1\exercicio_listas.csproj.AssemblyReference.cache
+C:\Users\leonardo fernandes\source\repos\exercicio_listas\obj\Debug\netcoreapp2.1\exercicio_listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo fernandes\source\repos\exercicio_listas\obj\Debug\netcoreapp2.1\exercicio_listas.AssemblyInfoInputs.cache
+C:\Users\leonardo fernandes\source\repos\exercicio_listas\obj\Debug\netcoreapp2.1\exercicio_listas.AssemblyInfo.cs
+C:\Users\leonardo fernandes\source\repos\exercicio_listas\obj\Debug\netcoreapp2.1\exercicio_listas.csproj.CoreCompileInputs.cache
+C:\Users\leonardo fernandes\source\repos\exercicio_listas\obj\Debug\netcoreapp2.1\exercicio_listas.dll
+C:\Users\leonardo fernandes\source\repos\exercicio_listas\obj\Debug\netcoreapp2.1\exercicio_listas.pdb
+C:\Users\leonardo fernandes\source\repos\exercicio_listas\obj\Debug\netcoreapp2.1\exercicio_listas.genruntimeconfig.cache
